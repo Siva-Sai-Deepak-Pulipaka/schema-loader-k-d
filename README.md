@@ -1,1 +1,1 @@
-# schema-loader-k-d
+# schema-loader-kubernetes-docker
